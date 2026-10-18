@@ -2,9 +2,9 @@
 
 Sitio web personal de demostración que presenta una hoja de vida, habilidades, formación académica y proyectos mediante un diseño adaptable a celulares, tabletas y computadores.
 
-**Sitio publicado:** 
+**Sitio publicado:** https://juansebastiansierravelasco.github.io/Hojadevida/
 
-**Repositorio:** 
+**Repositorio:** https://github.com/juansebastiansierravelasco/Hojadevida.git
 
 ## Páginas del sitio
 
